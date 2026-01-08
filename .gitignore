@@ -1,7 +1,10 @@
 /ama_lista_*
 
-/projeto/data/bem_candidato_*
+/.github
 
-/projeto/data/consulta_cand_*
+/figures
+/projeto/figures
+projeto/src/projeto_ml_depfed.ipynb
+src/projeto_ml_depfed.ipynb
 
-/projeto/data/prestacao*
+/.venv
