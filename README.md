@@ -739,7 +739,7 @@ build-backend = "poetry.core.masonry.api"
 
 **Autores:**  
 - Artur Garcia ([arturgarcia046@gmail.com](mailto:arturgarcia046@gmail.com))  
-- Artur Saraiva  
+- Artur Saraiva  ([paschoal.artur@gmail.com](mailto:paschoal.artur@gmail.com))
 
 **Orientação:**  
 Prof. Dr. César Lincoln Cavalcante Mattos
@@ -780,7 +780,7 @@ Universidade Federal do Ceará.
 
 Para dúvidas, sugestões ou colaborações:
 
-- 📧 **E-mail:** [arturgarcia046@gmail.com](mailto:arturgarcia046@gmail.com)
+- 📧 **E-mail:** [arturgarcia046@gmail.com](mailto:arturgarcia046@gmail.com) ou ([paschoal.artur@gmail.com](mailto:paschoal.artur@gmail.com))
 - 🎓 **Universidade:** UFC - Departamento de Computação
 - 📊 **Dados TSE:** [estatistica@tse.jus.br](mailto:estatistica@tse.jus.br)
 

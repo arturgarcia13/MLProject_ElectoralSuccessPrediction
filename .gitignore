@@ -3,7 +3,7 @@
 /.github
 /.vscode
 
-/figures
+
 /projeto/figures
 projeto/src/projeto_ml_depfed.ipynb
 src/projeto_ml_depfed.ipynb
