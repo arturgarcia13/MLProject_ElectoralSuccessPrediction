@@ -1,0 +1,6 @@
+{
+  "markdown.marp.themes": [
+    "./doc/apresentation/assets/rose_pine_dawn.css",
+    "./doc/apresentation/assets/rose_pine_moon.css"
+  ]
+}
